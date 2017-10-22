@@ -4,6 +4,7 @@
 
 * Multnomah County Bridges Lift Data API Docs **[here](https://api.multco.us/bridges/docs)**.
 * Apply for Multnomah County Bridges Lift Data API Token Key **[here](https://multco.us/it/webform/request-access-bridges-public-api)**.
+* Uses [Yeoman](http://yeoman.io) with the [Fountain.JS Generator](http://fountainjs.io) for [WebApp](https://github.com/fountainjs/generator-fountain-webapp) and [React](https://github.com/FountainJS/generator-fountain-react) to generate initial skeleton app
 
 
 
